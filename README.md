@@ -1,1 +1,2 @@
-# ICE478-Mini-Project
+# Cluster-Based Profiling of Student Mental-Health Risk Groups Using Self-Supervised Learning and Statistical Modeling
+Developed an interpretable machine learning framework using self-supervised learning and Random Forest to assess mental health risk among university students. Applied autoencoder-based dimensionality reduction, K-Means clustering, and feature importance analysis to achieve high predictive accuracy and actionable insights for early intervention.
